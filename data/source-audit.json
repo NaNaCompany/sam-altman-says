@@ -1,0 +1,26 @@
+{
+  "slug": "sam-altman-says",
+  "captured_at": "2026-10-28T13:32:36.210246+00:00",
+  "coverage": "partial",
+  "records": 50,
+  "first": "2026-04-30",
+  "last": "2026-07-05",
+  "exact_time": 50,
+  "sources": [
+    {
+      "id": "superx-sam-permalinks",
+      "url": "https://superx.so/tweets/sam-altman",
+      "creator": "SuperX",
+      "raw_sha256": "74d11ea34074c7da738a613a260c74d877d81b05de9b37086ccc05f26cac4320",
+      "redistributed_fields": [
+        "post_id",
+        "original_url",
+        "ID-derived creation timestamp"
+      ],
+      "body_rights": "not established; ranking text, tweet bodies and images excluded",
+      "selection": "50 public post permalinks in provider top-post listing; not a full account archive"
+    }
+  ],
+  "failures": [],
+  "post_body_policy": "No scraped bodies, images or third-party summaries redistributed. Only factual post identities, dates and original permalinks; post content is displayed through official platform embeds."
+}

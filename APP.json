@@ -1,0 +1,24 @@
+{
+  "slug": "sam-altman-says",
+  "name": "Sam Altman Says",
+  "wordmark": "SAM ALTMAN",
+  "subject": "Sam Altman",
+  "handle": "sama",
+  "profile": "https://x.com/sama",
+  "initials": "SA",
+  "color": "#607461",
+  "photo": "sam",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped).jpg",
+  "photo_creator": "Steve Jennings / Getty Images for TechCrunch; cropped version from Wikimedia Commons",
+  "photo_license": "CC BY 2.0",
+  "photo_license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "origin": "https://nanalab.kr/sam-altman-says",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "portrait": "assets/portrait.jpg"
+}
