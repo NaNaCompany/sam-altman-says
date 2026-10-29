@@ -6,11 +6,11 @@
   "posts": 50,
   "months": 4,
   "days": 28,
-  "html_pages": 85,
+  "html_pages": 86,
   "sitemap_leaves": [
     {
       "file": "sitemap-main.xml",
-      "urls": 35
+      "urls": 36
     },
     {
       "file": "sitemap-posts-01.xml",

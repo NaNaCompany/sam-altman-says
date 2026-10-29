@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "slug": "sam-altman-says",
+  "processed_at": "2026-10-29T00:35:39Z",
+  "records": 50,
+  "known_like_counts": 50,
+  "unavailable_like_counts": 0,
+  "observed_zero_counts": 0,
+  "old_posts_sha256": "25dc864e6b8ed12aa23da29f1e16c2c79d50d9f1f89c9ec6b6472b3e5189798e",
+  "preserved_fields": "Every original field, record ID, publication date, timestamp, source ID and original URL preserved; only like_count, likes_captured_at and likes_source added.",
+  "unavailable_policy": "Unknown, missing, rounded-only, inaccessible or author/ID-mismatched counts are null, never fabricated as zero.",
+  "text_policy": "No scraped bodies, translations, media or third-party summaries added to the post corpus.",
+  "source": {
+    "url": "https://cdn.syndication.twimg.com/tweet-result",
+    "field": "favorite_count",
+    "matching": "Exact id_str and user.screen_name required",
+    "capture_policy": "UTC time of this public official embed metadata read"
+  },
+  "failures": [],
+  "rounded_provider_excluded": {
+    "url": "https://superx.so/tweets/sam-altman",
+    "reason": "Cached top-50 listing shows rounded values such as 23K. Exact counts are obtained separately from official X metadata; rounded figures are not expanded into false precision."
+  }
+}
