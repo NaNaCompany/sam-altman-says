@@ -1,8 +1,8 @@
 {
   "status": "passed",
-  "posts_considered": 50,
+  "posts_considered": 51,
   "known_like_counts": 50,
-  "unknown_like_counts": 0,
+  "unknown_like_counts": 1,
   "popular_ids": [
     "x-2050274547061129577",
     "x-2054626219858293128",
@@ -56,11 +56,13 @@
     "x-2063779477419901071"
   ],
   "popular_count": 50,
-  "latest_count": 0,
-  "latest_ids": [],
+  "latest_count": 1,
+  "latest_ids": [
+    "x-2117794005165748448"
+  ],
   "page_size": 20,
-  "html_feed_pages": 0,
-  "home_latest_count": 0,
+  "html_feed_pages": 1,
+  "home_latest_count": 1,
   "duplicate_popular_latest": false,
   "like_policy": "Known source snapshot integers only; null is not zero. Ties use newest collected time.",
   "body_policy": "Text-first lists show up to 800 original-language source codepoints. Detail pages contain the captured source text plus the original platform embed. Missing, partial and official-description statuses remain explicit. No translated or reconstructed source text is added.",

@@ -18,7 +18,7 @@ An individual detail page displays the complete available captured source string
 
 ## Source data and coverage
 
-Partial snapshot: 50 collected original permalinks, 2026-04-30 through 2026-07-05. This is not a complete account export, live feed, recent-activity ranking or claim of personal authorship. Exact coverage, source snapshots and exclusions remain in data/source-audit.json and Sources & coverage.
+Partial snapshot: 51 collected original permalinks, 2026-04-30 through 2026-11-04. This is not a complete account export, live feed, recent-activity ranking or claim of personal authorship. Exact coverage, source snapshots and exclusions remain in data/source-audit.json and Sources & coverage.
 
 data/posts.json remains the original identity/date/permalink corpus. The separate data/post-texts.json overlay is keyed by the same stable record ID and contains exact available source strings, source links, status/completeness labels and hashes. The overlay does not rewrite the metadata corpus.
 
@@ -61,3 +61,7 @@ Existing public page paths and canonical identities are preserved. Each sitemap 
 ## Homepage social preview
 
 The canonical homepage uses the existing attributed portrait at https://nanalab.kr/sam-altman-says/assets/portrait.jpg for Open Graph and a Twitter/X large-image summary. The JPEG dimensions are 2228 × 2324 pixels. The build verifies the photo hash against its unchanged credit record and emits the image tags only on the homepage. Other pages retain their existing metadata. No image edits, crops or generated face assets are introduced.
+
+## November 10, 2026 source refresh
+
+Added 1 selectively discovered original permalinks verified with official X oEmbed author metadata. These additions have no stored body, media or like count; existing unavailable-text labels and official detail embeds remain. This is partial coverage, not a complete or live account refresh. See evidence/refresh-20261110.json.

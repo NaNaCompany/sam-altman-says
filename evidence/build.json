@@ -3,18 +3,18 @@
   "slug": "sam-altman-says",
   "subject": "Sam Altman",
   "handle": "sama",
-  "posts": 50,
-  "months": 4,
-  "days": 28,
-  "html_pages": 86,
+  "posts": 51,
+  "months": 5,
+  "days": 29,
+  "html_pages": 90,
   "sitemap_leaves": [
     {
       "file": "sitemap-main.xml",
-      "urls": 36
+      "urls": 39
     },
     {
       "file": "sitemap-posts-01.xml",
-      "urls": 50
+      "urls": 51
     }
   ],
   "home_corpus_requests": 0,

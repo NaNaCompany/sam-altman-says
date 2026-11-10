@@ -1,0 +1,53 @@
+{
+  "checked_at": "2026-11-10T12:18:29.675999+00:00",
+  "slug": "sam-altman-says",
+  "records_before": 50,
+  "records_after": 51,
+  "added_ids": [
+    "x-2117794005165748448"
+  ],
+  "coverage": "partial; selective verified permalink additions, not complete account collection",
+  "coverage_before": "2026-07-05",
+  "coverage_after": "2026-11-04",
+  "body_policy": "No new post body, image or third-party summary redistributed. Official oEmbed used only to verify author and permalink; unknown text/media/likes remain unavailable. Existing overlays unchanged.",
+  "policy_urls": [
+    "https://x.com/en/tos",
+    "https://help.x.com/en/using-x/how-to-embed-a-post"
+  ],
+  "access_attempts": [
+    {
+      "slug": "sam-altman-says",
+      "id": "2117794005165748448",
+      "handle": "sama",
+      "endpoint": "https://publish.twitter.com/oembed?url=https://x.com/sama/status/2117794005165748448&omit_script=true",
+      "http_status": 200,
+      "author_verified": true,
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2117794005165748448",
+      "raw_sha256": "4c27f5883b961540a238de49a27a0a87e8601a97fdff89cadeb9bf00170181b9",
+      "author_name": "Sam Altman"
+    },
+    {
+      "url": "https://x.com/sama/status/2117794005165748448",
+      "route": "web open",
+      "status": 403,
+      "action": "Direct page not retried; separately supported official oEmbed verified metadata only"
+    }
+  ],
+  "tests": {
+    "build": "passed",
+    "static_check": "passed",
+    "node_tests": "39/39 passed",
+    "browser_qa": "not run",
+    "publication": "not pushed or deployed"
+  },
+  "classification_policy": "Reply/quote/native-repost status is not inferred from oEmbed; new records leave subtype unknown. Matching official author and canonical post identity are verified.",
+  "discovery_sources": [
+    "https://postcutoff.com/e/2026-11-04-altman-people-should-control-future-not-superintelligence/"
+  ],
+  "preservation_checks": {
+    "existing_records_unchanged": true,
+    "existing_text_overlay_bytes_unchanged": true,
+    "production_runtime_unchanged": true
+  }
+}
